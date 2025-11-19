@@ -81,6 +81,7 @@
     <Content Include="Login.aspx" />
     <Content Include="Menu.aspx" />
     <Content Include="Register.aspx" />
+    <Content Include="Styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
