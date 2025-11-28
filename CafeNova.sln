@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(CAFENOVA)", "(CAFENOVA)\(CAFENOVA).csproj", "{FAA45410-F81F-452F-B436-17DF8A30C8BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeNova", "CafeNova\CafeNova.csproj", "{9FAA1521-676D-4892-B1EA-030350735A86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FAA45410-F81F-452F-B436-17DF8A30C8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FAA45410-F81F-452F-B436-17DF8A30C8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FAA45410-F81F-452F-B436-17DF8A30C8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FAA45410-F81F-452F-B436-17DF8A30C8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAA1521-676D-4892-B1EA-030350735A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAA1521-676D-4892-B1EA-030350735A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAA1521-676D-4892-B1EA-030350735A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAA1521-676D-4892-B1EA-030350735A86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
