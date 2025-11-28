@@ -72,7 +72,7 @@ namespace CafeNova
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string item = "Coffe";
+            string item = "Coffee";
             int price = 200;
             cartItems.Add("Coffee");
             cartPrices.Add(200);
